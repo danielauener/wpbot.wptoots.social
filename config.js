@@ -6,8 +6,8 @@ module.exports = {
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/img/avatar.png',
-  pathPrefix: `/gatsby-starter-prologue/`, // This path is subpath of your hosting https://domain/portfolio
+  manifestIcon: 'src/assets/images/avatar.png',
+  //pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: '@wpbot',
   heading: 'Mastodon Bot',
   // social

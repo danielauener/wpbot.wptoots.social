@@ -30,7 +30,7 @@ const IndexPage = () => (
           </header>
 
           <footer>
-            <a href="https://wptoots.social/@wpbot" className="button">
+            <a rel="me" href="https://wptoots.social/@wpbot" className="button">
               Follow me: @wpbot@wptoots.social
             </a>
           </footer>
