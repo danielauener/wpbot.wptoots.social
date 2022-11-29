@@ -85,6 +85,10 @@
       {
         "url": "https://wordpress.tv/feed/",
         "description": "Approves and publishes videos on WordPress.tv as well as help WordCamps with video post-production."
+      },
+      {
+        "url": "https://jobs.wordpress.net/job_category/development/feed/",
+        "description": "Job listings on wordpress.org."
       }
     ]
   }
