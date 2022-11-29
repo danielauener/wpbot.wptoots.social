@@ -60,6 +60,10 @@
         "url": "https://wpengine.com/builders/feed/",
         "description": "A new breed of technology company at the intersection of software innovation and service."
       }
+      {
+        "url": "https://make.wordpress.org/core/feed/",
+        "description": "Official Make WordPress blog posts."
+      }
     ]
   },
 
