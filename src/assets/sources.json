@@ -44,11 +44,6 @@
         "description": "Official WordPress developer news feed."
       },
       {
-        "url": "https://make.wordpress.org/updates/feed/",
-        "description": "Official Make-WordPress updates feed."
-      },
-
-      {
         "url": "https://gutenbergtimes.com/feed/",
         "description": "All-things WordPress Block Editor and Gutenberg plugin."
       },
@@ -59,7 +54,7 @@
       {
         "url": "https://wpengine.com/builders/feed/",
         "description": "A new breed of technology company at the intersection of software innovation and service."
-      }
+      },
       {
         "url": "https://make.wordpress.org/core/feed/",
         "description": "Official Make WordPress blog posts."
