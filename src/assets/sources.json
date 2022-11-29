@@ -64,6 +64,10 @@
         "url": "https://make.wordpress.org/core/feed/",
         "description": "Official Make WordPress blog posts."
       }
+      {
+        "url": "https://wordpress.tv/feed/",
+        "description": "Official WordCamp videos."
+      }
     ]
   },
 
