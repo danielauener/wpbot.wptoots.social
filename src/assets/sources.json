@@ -59,6 +59,42 @@
         "url": "https://make.wordpress.org/core/feed/",
         "description": "Official Make WordPress blog posts."
       }
+       {
+        "url": "https://wordpress.org/support/articles/feed",
+        "description": "Official Make WordPress Support Articles."
+      }
+       {
+        "url": "https://developer.wordpress.org/feed/?post_type[]=wporg_explanations&post_type[]=apis-handbook&post_type[]=plugin-handbook&post_type[]=theme-handbook&post_type[]=blocks-handbook&post_type[]=wpcs-handbook&post_type[]=rest-api-handbook&post_type[]=wp-parser-function&post_type[]=wp-parser-class&post_type[]=wp-parser-hook&post_type[]=wp-parser-method&post_type[]=command",
+        "description": "Official Make WordPress Developer Articles."
+      }
+       {
+        "url": "https://developer.wordpress.org/news/feed/",
+        "description": "Official Make WordPress Developer Blog."
+      }
+        {
+        "url": "https://learn.wordpress.org/lesson-plans/feed",
+        "description": "Official Learn WordPress Lesson Plans."
+      }
+      {
+        "url": "https://learn.wordpress.org/tutorials/feed",
+        "description": "Official Learn WordPress Tutorials."
+      }
+      {
+        "url": "https://learn.wordpress.org/courses/feed",
+        "description": "Official Learn WordPress Courses."
+      }
+      {
+        "url": ""https://learn.wordpress.org/feed/?post_type=wporg_workshop",
+        "description": "Official Learn WordPress Online Workshops."
+      }
+      {
+        "url": "https://www.godaddy.com/garage/wordpress/feed",
+        "description": "GoDaddy WordPress blog posts."
+      }
+      {
+        "url": "https://poststatus.com/feed",
+        "description": "Post Status."
+      }
     ]
   },
 
