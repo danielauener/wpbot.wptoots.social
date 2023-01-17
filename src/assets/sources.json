@@ -63,6 +63,10 @@
         "url": "https://wordpress.org/support/articles/feed",
         "description": "Official Make WordPress Support Articles."
       }
+         {
+        "url": "https://make.wordpress.org/project/feed",
+        "description": "Official Make WordPress Project Articles."
+      }
        {
         "url": "https://developer.wordpress.org/feed/?post_type[]=wporg_explanations&post_type[]=apis-handbook&post_type[]=plugin-handbook&post_type[]=theme-handbook&post_type[]=blocks-handbook&post_type[]=wpcs-handbook&post_type[]=rest-api-handbook&post_type[]=wp-parser-function&post_type[]=wp-parser-class&post_type[]=wp-parser-hook&post_type[]=wp-parser-method&post_type[]=command",
         "description": "Official Make WordPress Developer Articles."
