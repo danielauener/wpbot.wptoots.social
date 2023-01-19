@@ -30,7 +30,6 @@
         "url": "https://wpmudev.com/blog/category/development/feed/",
         "description": "Award-winning WordPress plugins, hosting and site management tools have helped millions of web developers."
       },
-
       {
         "url": "https://wptavern.com/category/news/feed",
         "description": "WPTavern is one of the most reliable sources on official WordPress releases, new features, issues, and fixes, WordPress people etc. - themegrill.com"
@@ -66,7 +65,7 @@
       {
         "url": "https://wp20.wordpress.net/feed/",
         "description": "Official WordPress 20th Celebration."
-      }
+      },
       {
         "url": "https://wordpressfoundation.org/feed/",
         "description": "Official WordPress Foundation."
@@ -79,23 +78,23 @@
         "url": "https://make.wordpress.org/core/feed/",
         "description": "Official Make WordPress blog posts."
       },
-       {
+      {
         "url": "https://wordpress.org/support/articles/feed",
         "description": "Official Make WordPress Support Articles."
       },
-         {
+      {
         "url": "https://make.wordpress.org/project/feed",
         "description": "Official Make WordPress Project Articles."
       },
-       {
+      {
         "url": "https://developer.wordpress.org/feed/?post_type[]=wporg_explanations&post_type[]=apis-handbook&post_type[]=plugin-handbook&post_type[]=theme-handbook&post_type[]=blocks-handbook&post_type[]=wpcs-handbook&post_type[]=rest-api-handbook&post_type[]=wp-parser-function&post_type[]=wp-parser-class&post_type[]=wp-parser-hook&post_type[]=wp-parser-method&post_type[]=command",
         "description": "Official Make WordPress Developer Articles."
       },
-       {
+      {
         "url": "https://developer.wordpress.org/news/feed/",
         "description": "Official Make WordPress Developer Blog."
-      }
-        {
+      },
+      {
         "url": "https://learn.wordpress.org/lesson-plans/feed",
         "description": "Official Learn WordPress Lesson Plans."
       },
