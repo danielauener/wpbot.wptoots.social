@@ -118,10 +118,6 @@
         "url": "https://poststatus.com/feed",
         "description": "Post Status."
       }
-      {
-        "url": "https://wordpress.tv/feed/",
-        "description": "Official WordCamp videos."
-      }
     ]
   },
 
